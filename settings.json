@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": " tbsmc.aternos.me",
+    "ip": "tbsmc.aternos.me",
     "port": 54763,
     "version": "1.21.11",
     "try-creative": false
