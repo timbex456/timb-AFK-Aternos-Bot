@@ -23,8 +23,8 @@
       "password": "timb123"
     },
     "anti-afk": {
-      "enabled": true,
-      "sneak": true
+      "enabled": false,
+      "sneak": false
     },
     "chat-messages": {
       "enabled": true,
